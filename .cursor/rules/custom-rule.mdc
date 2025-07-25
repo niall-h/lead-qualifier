@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+All new or modified code that interacts with AI models or lead data must include inline documentation and at least one AI-generated test case.
